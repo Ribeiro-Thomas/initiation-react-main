@@ -1,0 +1,14 @@
+.NameGenerator {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.container {
+  width: 100%;
+}
+
+.persons {
+  display: flex;
+  flex-wrap: wrap;
+}

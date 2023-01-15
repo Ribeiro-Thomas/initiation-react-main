@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    background-color: lightblue;
+    box-shadow: 0 2px 5px grey;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: all 300ms;
+}
+
+a:hover {
+    background-color: blue;
+    color: white;
+}
